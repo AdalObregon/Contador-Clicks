@@ -1,4 +1,6 @@
-<h1 id="title" align="center">Bienvenidos al Reto de Gimnasios Pokemon 👋</h1>
+<h1 id="title" align="center">Bienvenidos 👋</h1>
+
+<h1 id="title" align="center">Proyecto Contador DOM</h1>
 
 <h2>🚀 Demo</h2>
 
